@@ -1,4 +1,9 @@
 # Final-project-for-oop2
+
+
+
+
+
 import sys
 from PyQt6.QtWidgets import (
     QApplication, QMainWindow, QWidget, QLabel,
